@@ -1,4 +1,6 @@
-### Hi there 👋, I am Daniel.
+### Hi there 👋
+
+- 🌱 I’m currently learning ... algorithms and get ready to build 🚀🚀🚀🚀🚀🚀🚀
 
 <!--
 **danielsss/danielsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
