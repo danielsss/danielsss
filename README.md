@@ -19,7 +19,4 @@ Here are some ideas to get you started:
 
 <a href=#><img src="contributions.svg"></a>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielsss&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000)](https://github.com/danielsss)
-
-
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danielsss&show_icons=true&hide_border=true&card_width=450&line_height=28&bg_color=000000&theme=dark&include_all_commits=true&include_orgs=true&count_private=true&exclude_repo=github-readme-stats)](https://github.com/danielsss)
